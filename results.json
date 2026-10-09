@@ -1,0 +1,15 @@
+{
+  "rows": 588101,
+  "ad_conversion_rate": 0.02555,
+  "psa_conversion_rate": 0.01785,
+  "absolute_uplift_percentage_points": 0.769,
+  "relative_uplift_percent": 43.09,
+  "ci_95_percentage_points": [
+    0.595,
+    0.943
+  ],
+  "chi_square": 54.006,
+  "p_value": 1.9989623063390078e-13,
+  "incremental_conversions_per_10000": 76.9,
+  "recommendation": "The advertisement increased conversion and the result is statistically significant."
+}
